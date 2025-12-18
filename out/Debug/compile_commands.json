@@ -1,0 +1,80 @@
+[
+{
+  "directory": "/home/tristan/Coding/cpp/Pokemon/out/Debug",
+  "command": "/usr/bin/c++  -I/home/tristan/Coding/cpp/Pokemon/include -g -std=gnu++23 -I/usr/include -o CMakeFiles/Pokemon.dir/src/Engine/Engine.cpp.o -c /home/tristan/Coding/cpp/Pokemon/src/Engine/Engine.cpp",
+  "file": "/home/tristan/Coding/cpp/Pokemon/src/Engine/Engine.cpp",
+  "output": "CMakeFiles/Pokemon.dir/src/Engine/Engine.cpp.o"
+},
+{
+  "directory": "/home/tristan/Coding/cpp/Pokemon/out/Debug",
+  "command": "/usr/bin/c++  -I/home/tristan/Coding/cpp/Pokemon/include -g -std=gnu++23 -I/usr/include -o CMakeFiles/Pokemon.dir/src/Engine/KeyHandler.cpp.o -c /home/tristan/Coding/cpp/Pokemon/src/Engine/KeyHandler.cpp",
+  "file": "/home/tristan/Coding/cpp/Pokemon/src/Engine/KeyHandler.cpp",
+  "output": "CMakeFiles/Pokemon.dir/src/Engine/KeyHandler.cpp.o"
+},
+{
+  "directory": "/home/tristan/Coding/cpp/Pokemon/out/Debug",
+  "command": "/usr/bin/c++  -I/home/tristan/Coding/cpp/Pokemon/include -g -std=gnu++23 -I/usr/include -o CMakeFiles/Pokemon.dir/src/Engine/MenuHandler.cpp.o -c /home/tristan/Coding/cpp/Pokemon/src/Engine/MenuHandler.cpp",
+  "file": "/home/tristan/Coding/cpp/Pokemon/src/Engine/MenuHandler.cpp",
+  "output": "CMakeFiles/Pokemon.dir/src/Engine/MenuHandler.cpp.o"
+},
+{
+  "directory": "/home/tristan/Coding/cpp/Pokemon/out/Debug",
+  "command": "/usr/bin/c++  -I/home/tristan/Coding/cpp/Pokemon/include -g -std=gnu++23 -I/usr/include -o CMakeFiles/Pokemon.dir/src/Engine/PauseManager.cpp.o -c /home/tristan/Coding/cpp/Pokemon/src/Engine/PauseManager.cpp",
+  "file": "/home/tristan/Coding/cpp/Pokemon/src/Engine/PauseManager.cpp",
+  "output": "CMakeFiles/Pokemon.dir/src/Engine/PauseManager.cpp.o"
+},
+{
+  "directory": "/home/tristan/Coding/cpp/Pokemon/out/Debug",
+  "command": "/usr/bin/c++  -I/home/tristan/Coding/cpp/Pokemon/include -g -std=gnu++23 -I/usr/include -o CMakeFiles/Pokemon.dir/src/Engine/ScreenHandler.cpp.o -c /home/tristan/Coding/cpp/Pokemon/src/Engine/ScreenHandler.cpp",
+  "file": "/home/tristan/Coding/cpp/Pokemon/src/Engine/ScreenHandler.cpp",
+  "output": "CMakeFiles/Pokemon.dir/src/Engine/ScreenHandler.cpp.o"
+},
+{
+  "directory": "/home/tristan/Coding/cpp/Pokemon/out/Debug",
+  "command": "/usr/bin/c++  -I/home/tristan/Coding/cpp/Pokemon/include -g -std=gnu++23 -I/usr/include -o CMakeFiles/Pokemon.dir/src/Engine/SpriteManager.cpp.o -c /home/tristan/Coding/cpp/Pokemon/src/Engine/SpriteManager.cpp",
+  "file": "/home/tristan/Coding/cpp/Pokemon/src/Engine/SpriteManager.cpp",
+  "output": "CMakeFiles/Pokemon.dir/src/Engine/SpriteManager.cpp.o"
+},
+{
+  "directory": "/home/tristan/Coding/cpp/Pokemon/out/Debug",
+  "command": "/usr/bin/c++  -I/home/tristan/Coding/cpp/Pokemon/include -g -std=gnu++23 -I/usr/include -o CMakeFiles/Pokemon.dir/src/Entity/Entity.cpp.o -c /home/tristan/Coding/cpp/Pokemon/src/Entity/Entity.cpp",
+  "file": "/home/tristan/Coding/cpp/Pokemon/src/Entity/Entity.cpp",
+  "output": "CMakeFiles/Pokemon.dir/src/Entity/Entity.cpp.o"
+},
+{
+  "directory": "/home/tristan/Coding/cpp/Pokemon/out/Debug",
+  "command": "/usr/bin/c++  -I/home/tristan/Coding/cpp/Pokemon/include -g -std=gnu++23 -I/usr/include -o CMakeFiles/Pokemon.dir/src/Entity/EntityManager.cpp.o -c /home/tristan/Coding/cpp/Pokemon/src/Entity/EntityManager.cpp",
+  "file": "/home/tristan/Coding/cpp/Pokemon/src/Entity/EntityManager.cpp",
+  "output": "CMakeFiles/Pokemon.dir/src/Entity/EntityManager.cpp.o"
+},
+{
+  "directory": "/home/tristan/Coding/cpp/Pokemon/out/Debug",
+  "command": "/usr/bin/c++  -I/home/tristan/Coding/cpp/Pokemon/include -g -std=gnu++23 -I/usr/include -o CMakeFiles/Pokemon.dir/src/Entity/GroundItem.cpp.o -c /home/tristan/Coding/cpp/Pokemon/src/Entity/GroundItem.cpp",
+  "file": "/home/tristan/Coding/cpp/Pokemon/src/Entity/GroundItem.cpp",
+  "output": "CMakeFiles/Pokemon.dir/src/Entity/GroundItem.cpp.o"
+},
+{
+  "directory": "/home/tristan/Coding/cpp/Pokemon/out/Debug",
+  "command": "/usr/bin/c++  -I/home/tristan/Coding/cpp/Pokemon/include -g -std=gnu++23 -I/usr/include -o CMakeFiles/Pokemon.dir/src/Entity/Player.cpp.o -c /home/tristan/Coding/cpp/Pokemon/src/Entity/Player.cpp",
+  "file": "/home/tristan/Coding/cpp/Pokemon/src/Entity/Player.cpp",
+  "output": "CMakeFiles/Pokemon.dir/src/Entity/Player.cpp.o"
+},
+{
+  "directory": "/home/tristan/Coding/cpp/Pokemon/out/Debug",
+  "command": "/usr/bin/c++  -I/home/tristan/Coding/cpp/Pokemon/include -g -std=gnu++23 -I/usr/include -o CMakeFiles/Pokemon.dir/src/Map/Map.cpp.o -c /home/tristan/Coding/cpp/Pokemon/src/Map/Map.cpp",
+  "file": "/home/tristan/Coding/cpp/Pokemon/src/Map/Map.cpp",
+  "output": "CMakeFiles/Pokemon.dir/src/Map/Map.cpp.o"
+},
+{
+  "directory": "/home/tristan/Coding/cpp/Pokemon/out/Debug",
+  "command": "/usr/bin/c++  -I/home/tristan/Coding/cpp/Pokemon/include -g -std=gnu++23 -I/usr/include -o CMakeFiles/Pokemon.dir/src/Map/Tile.cpp.o -c /home/tristan/Coding/cpp/Pokemon/src/Map/Tile.cpp",
+  "file": "/home/tristan/Coding/cpp/Pokemon/src/Map/Tile.cpp",
+  "output": "CMakeFiles/Pokemon.dir/src/Map/Tile.cpp.o"
+},
+{
+  "directory": "/home/tristan/Coding/cpp/Pokemon/out/Debug",
+  "command": "/usr/bin/c++  -I/home/tristan/Coding/cpp/Pokemon/include -g -std=gnu++23 -I/usr/include -o CMakeFiles/Pokemon.dir/src/main.cpp.o -c /home/tristan/Coding/cpp/Pokemon/src/main.cpp",
+  "file": "/home/tristan/Coding/cpp/Pokemon/src/main.cpp",
+  "output": "CMakeFiles/Pokemon.dir/src/main.cpp.o"
+}
+]
